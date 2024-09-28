@@ -1,0 +1,17 @@
+I wake up
+If I'm hungry       //condition: if true then eat breakfast, if false, skip
+    I eat breakfast
+
+I leave the house
+if it's cloudy       // if
+    I bring an umbrella
+otherwise            //else
+    I bring sunglasses
+
+I'm at a restaurant
+if I want meat             // if-else
+    I order a steak
+otherwise if I want pasta // if-else
+    I order spaghetti and meatballs
+otherwise                  // else
+    I order a salad.
