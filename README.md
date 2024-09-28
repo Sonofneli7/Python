@@ -55,7 +55,7 @@ This repository highlights some of the key skills and tools I've worked with:
 I welcome contributions to these projects! Feel free to open a pull request.
 
 ## Contact Information
-[Linkedin](#https://www.linkedin.com/in/nelson-morales-softwareengineer/)
+- **LinkedIn:** [Nelson Morales](https://www.linkedin.com/in/nelson-morales-softwareengineer/)
 
 3. **Commit and Push**:  
    After you’ve finished editing your `README.md`, save the file, commit it, and push it to your GitHub repository:
